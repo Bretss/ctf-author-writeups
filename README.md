@@ -14,7 +14,8 @@ Je m'intéresse particulièrement à la **forensique numérique (DFIR)** et à l
 | Keys, keys, keys. | [Writeup](https://github.com/Bretss/ctf-author-writeups/tree/main/CTF-BREIZHCTF-2026/keys_keys_keys/solve) | CTF-BREIZHCTF-2026 | 🟢 Easy |
 | Totally Secure | [Writeup](https://github.com/Bretss/ctf-author-writeups/tree/main/CTF-BREIZHCTF-2026/totally_secure/solve) | CTF-BREIZHCTF-2026 | 🟢 Easy |
 
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVuNHppOXY4bXNrM2NjNzBiZnd1MnB2cDFldzhqejJscWFpOHM1ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8OPsobKv6ksJojld4X/giphy.gif)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVuNHppOXY4bXNrM2NjNzBiZnd1MnB2cDFldzhqejJscWFpOHM1ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8OPsobKv6ksJojld4X/giphy.gif" width="200"/>
 
 ---
 *DFIR • Création de challenges • Recherche en cybersécurité*
