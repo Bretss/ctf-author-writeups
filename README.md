@@ -11,7 +11,7 @@ Je m'intéresse particulièrement à la **forensique numérique (DFIR)** et à l
 | By Design | [Writeup](https://github.com/Bretss/ctf-author-writeups/tree/main/CTF-INTERIUT-2026/bydesign/WU) | CTF-INTERIUT-2026 | 🟢 Easy |
 | Neural Vault | [Writeup](https://github.com/Bretss/ctf-author-writeups/tree/main/CTF-INTERIUT-2026/neural_vault/WU) | CTF-INTERIUT-2026 | 🟡 Medium  |
 | Skill_Issue.exe | [Writeup](https://github.com/Bretss/ctf-author-writeups/blob/main/CTF-BREIZHCTF-2026/SkillIssue.exe/solve/WRITEUP.md) | CTF-BREIZHCTF-2026 | 🔴 Hard |
-| Keys, keys, keys. | [Writeup](https://github.com/Bretss/ctf-author-writeups/tree/main/CTF-BREIZHCTF-2026/keys_keys_keys/solve/WRITEUP.md) | CTF-BREIZHCTF-2026 | 🟢 Easy |
+| Keys, keys, keys. | [Writeup](https://github.com/Bretss/ctf-author-writeups/tree/main/CTF-BREIZHCTF-2026/keyskeyskeys/solve/WRITEUP.md) | CTF-BREIZHCTF-2026 | 🟢 Easy |
 | Totally Secure | [Writeup](https://github.com/Bretss/ctf-author-writeups/tree/main/CTF-BREIZHCTF-2026/totally_secure/solve/WRITEUP.md) | CTF-BREIZHCTF-2026 | 🟢 Easy |
 
 ---
