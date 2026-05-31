@@ -8,5 +8,7 @@ Je m'intéresse particulièrement à la **forensique numérique (DFIR)** et à l
 |-----------|----------|-----------|
 | Nom du challenge | [Writeup](#) | Nom de l'événement |
 
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVuNHppOXY4bXNrM2NjNzBiZnd1MnB2cDFldzhqejJscWFpOHM1ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8OPsobKv6ksJojld4X/giphy.gif)
+
 ---
 *DFIR • Création de challenges • Recherche en cybersécurité*
