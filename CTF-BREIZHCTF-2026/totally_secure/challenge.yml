@@ -1,0 +1,46 @@
+name: "Totally Secure"
+author: "Zlippy"
+category: forensic
+description: |-
+    ![Hax0R](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxyNHFoZHZ1NnM5Zm80emJxbTIzaHhub3d5Mm1jYjQ5c2pkY21nMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GAeH0yZbyggdq/giphy.gif)
+
+    Un ami a décidé de monter son propre serveur "sécurisé" à grand renfort de copier-coller et de prompts ChatGPT. Il est très fier de lui et ne cesse de répéter que tout est "crypté", que personne ne peut rien voir sur le réseau.
+
+    Il vous a partagé une capture réseau ainsi que quelques fichiers récupérés sur sa machine, persuadé que vous n'y comprendrez rien. Votre mission est simple : lui prouver que non, tout n'est pas si "crypté" (chiffré) que ça, et retrouver ce qui transitait dans ses communications prétendument inviolables.
+
+    Format du flag : BZHCTF{des_trucs_écrits}
+
+
+attribution: 'Auteur : Zlippy'
+
+files:
+    - files/triage_server.tar.gz
+    - files/traffic.pcapng
+
+flags:
+    - BZHCTF{Pl34se_D0nT_D0_Th4t_1n_Pr0d!!!!}
+
+# Les tags sont visisbles par les joueurs et peuvent donner une idée du thème du challenge
+# Il doit y avoir au moins un tag annoncant la difficulté (Très Facile/Facile/Moyen/Difficile/Très Difficile)
+tags:
+    - Facile
+    - Forensic
+    - Crypto
+    - Réseau
+
+# Les topics ne sont visibles que par les admins uniquement
+topics:
+    - network forensics
+    - TLS
+    - RSA
+
+# Valeur maximale du challenge en points
+value: 500
+type: dynamic
+state: visible
+extra:
+    initial: 500
+    decay: 100
+    minimum: 50
+
+version: "0.1"

@@ -1,0 +1,52 @@
+name: "Skill_Issue.exe"
+author: "Zlippy"
+category: forensic
+description: |-
+    ![Gamerz!!!!!](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29oZHZ3amU5bjJrMW81NnJsYjd6dzBrcXdzMm11ZG8zY3k1Z2kweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VI2jp6o8ojW53xmupr/giphy.gif)
+
+    Un gamer un peu trop nerveux a voulu augmenter ses performances sur son jeu préféré... Mais ça ne s'est absolument pas passé comme prévu.
+
+    De vos pouvoirs d'enquêteur numérique, vous allez devoir assister la récupération d'un fichier très important sur le bureau de la victime.
+
+    Pour cela, vous avez réussi à mettre la main sur la machine de l'attaquant, ce qui vous donnera très certainement toutes les clés pour résoudre ce mystère !
+
+    Votre mission :
+
+     - Récupérer le fichier ultra super mega important sur le bureau de la victime
+
+    Format du flag : BZHCTF{Un_Truc_Comme_Ca}
+
+    Attention ! N'exécutez pas les potentiels binaires que vous allez récupérer durant votre analyse directement sur votre poste. Faites vos recherches dans un environnement isolé de votre hôte.
+attribution: 'Auteur : Zlippy'
+
+files:
+    - files/extraits_forensique_victime.tar
+    - files/extraits_forensique_attaquant.tar.gz
+
+flags:
+    - BZHCTF{Th1s_L0oks_Like_Ex4cTly_As_T3amPCP!!!!!!}
+
+# Les tags sont visisbles par les joueurs et peuvent donner une idée du thème du challenge
+# Il doit y avoir au moins un tag annoncant la difficulté (Très Facile/Facile/Moyen/Difficile/Très Difficile)
+tags:
+    - Difficile
+    - Forensic
+    - Crypto
+
+# Les topics ne sont visibles que par les admins uniquement
+topics:
+    - data forensic
+    - steg
+    - RSA
+    - AES
+
+# Valeur maximale du challenge en points
+value: 500
+type: dynamic
+state: visible
+extra:
+    initial: 500
+    decay: 100
+    minimum: 50
+
+version: "0.1"

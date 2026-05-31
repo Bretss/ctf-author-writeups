@@ -1,0 +1,48 @@
+name: "Keys, Keys, Keys."
+author: "Zlippy"
+category: forensic
+description: |-
+    ![C00lK1d](https://media1.giphy.com/media/111ebonMs90YLu/giphy.gif)
+
+    Une console de salon blanche du milieu des années 2000, célèbre pour ses manettes à détection de mouvement, a été brièvement « empruntée » à son propriétaire.
+
+    Un dump partiel de son stockage externe vous est fourni.
+
+    Votre mission :
+
+     - Identifier le nom du jeu auquel il joue.
+
+     - Retrouver un second fragment de flag dissimulé quelque part dans les artefacts.
+
+    Format du flag : BZHCTF{NomDuJeu_artefact}
+
+
+attribution: 'Auteur : Zlippy'
+
+files:
+    - files/image.dd
+flags:
+    - BZHCTF{BREIZHSports_W11_1z_fun}
+
+# Les tags sont visisbles par les joueurs et peuvent donner une idée du thème du challenge
+# Il doit y avoir au moins un tag annoncant la difficulté (Très Facile/Facile/Moyen/Difficile/Très Difficile)
+tags:
+    - Facile
+    - Forensic
+    - Crypto
+
+# Les topics ne sont visibles que par les admins uniquement
+topics:
+    - data forensic
+    - wii
+
+# Valeur maximale du challenge en points
+value: 500
+type: dynamic
+state: visible
+extra:
+    initial: 500
+    decay: 100
+    minimum: 50
+
+version: "0.1"
