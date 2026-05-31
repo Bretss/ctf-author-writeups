@@ -6,10 +6,13 @@ Je m'intéresse particulièrement à la **forensique numérique (DFIR)** et à l
 
 ***Je suis auteur sous le nom de Zlippy.***
 
-| Challenge | Writeup | Événement |
-|-----------|----------|-----------|
-| By Design | [Writeup](https://github.com/Bretss/ctf-author-writeups/tree/main/CTF-INTERIUT-2026/bydesign/WU) | CTF-INTERIUT-2026 |
-| Neural Vault | [Writeup](https://github.com/Bretss/ctf-author-writeups/tree/main/CTF-INTERIUT-2026/neural_vault/WU) | CTF-INTERIUT-2026 |
+| Challenge | Writeup | Événement | Difficulté |
+|-----------|----------|-----------|-------------|
+| By Design | [Writeup](https://github.com/Bretss/ctf-author-writeups/tree/main/CTF-INTERIUT-2026/bydesign/WU) | CTF-INTERIUT-2026 | 🟢 Easy |
+| Neural Vault | [Writeup](https://github.com/Bretss/ctf-author-writeups/tree/main/CTF-INTERIUT-2026/neural_vault/WU) | CTF-INTERIUT-2026 | 🟡 Medium  |
+| Skill_Issue.exe | [Writeup](https://github.com/Bretss/ctf-author-writeups/tree/main/CTF-BREIZHCTF-2026/skill_issue_exe/solve) | CTF-BREIZHCTF-2026 | 🔴 Hard |
+| Keys, keys, keys. | [Writeup](https://github.com/Bretss/ctf-author-writeups/tree/main/CTF-BREIZHCTF-2026/keys_keys_keys/solve) | CTF-BREIZHCTF-2026 | 🟢 Easy |
+| Totally Secure | [Writeup](https://github.com/Bretss/ctf-author-writeups/tree/main/CTF-BREIZHCTF-2026/totally_secure/solve) | CTF-BREIZHCTF-2026 | 🟢 Easy |
 
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVuNHppOXY4bXNrM2NjNzBiZnd1MnB2cDFldzhqejJscWFpOHM1ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8OPsobKv6ksJojld4X/giphy.gif)
 
