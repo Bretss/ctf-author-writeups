@@ -4,6 +4,8 @@ Ce dépôt rassemble les writeups des challenges de cybersécurité que j'ai con
 
 Je m'intéresse particulièrement à la **forensique numérique (DFIR)** et à la création de scénarios d'investigation, techniques et pédagogiques.
 
+***Je suis auteur sous le nom de Zlippy.***
+
 | Challenge | Writeup | Événement |
 |-----------|----------|-----------|
 | Nom du challenge | [Writeup](#) | Nom de l'événement |
