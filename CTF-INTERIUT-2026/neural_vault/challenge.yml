@@ -1,0 +1,34 @@
+name: "Neural Vault"
+author: "author Zlippy"
+
+category: forensic
+description: |-
+
+    Un de nos agents infiltrés au sein de MilSec Industries a réussi à s'introduire dans une salle de serveurs du district 7 de NeonReach. Avant de se faire neutraliser, il a eu le temps de capturer un dump mémoire d'une machine critique et d'exfiltrer une image disque chiffrée.
+
+    D'après nos sources, ce disque contiendrait les logs des expériences neurales menées sur les citoyens du bloc 9 - des preuves suffisantes pour faire tomber MilSec Industries devant le Tribunal Numérique Mondial.
+
+    Le problème : le disque est protégé par un chiffrement, mais la machine tournait encore au moment du dump... La clé est forcément quelque part dans ce chaos de mémoire.
+
+    Le temps presse. Les victimes comptent sur vous.
+
+    Lien vers le fichier : https://download.interiut.hack2g2.fr/Neural_vault_chall.zip
+
+attribution: Written by Zlippy
+value: 500
+type: standard
+
+extra:
+    initial: 500
+    decay: 10
+    minimum: 100
+
+flags:
+    - INTERIUT{1e91fa2dc938df2954840752947c23a79c9c78a76c6c0c3c}
+
+tags:
+    - medium
+
+state: visible
+
+version: "0.1"

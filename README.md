@@ -8,7 +8,8 @@ Je m'intéresse particulièrement à la **forensique numérique (DFIR)** et à l
 
 | Challenge | Writeup | Événement |
 |-----------|----------|-----------|
-| Nom du challenge | [Writeup](#) | Nom de l'événement |
+| By Design | [Writeup](#) | CTF-INTERIUT-2026 |
+| Neural Vault | [Writeup](https://github.com/Bretss/ctf-author-writeups/CTF-INTERIUT-2026/) | CTF-INTERIUT-2026 |
 
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVuNHppOXY4bXNrM2NjNzBiZnd1MnB2cDFldzhqejJscWFpOHM1ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8OPsobKv6ksJojld4X/giphy.gif)
 

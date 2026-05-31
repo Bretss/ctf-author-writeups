@@ -1,0 +1,33 @@
+name: "By Design"
+author: "author Zlippy"
+
+category: forensic
+description: |-
+    Un agent du Null-Syndicate a subtilisé le laptop d'un administrateur MilSec Industries quelques minutes, juste assez pour capturer un dump mémoire. Dernière chose aperçue avant de fuir : l'administrateur venait de se connecter sur le portail interne de MilSec depuis son navigateur.
+
+    Ce portail contrôle les serveurs du bloc 9. Ses identifiants sont quelque part dans ce dump. Trouvez-les.
+
+    Format du flag : `interiut{mot_de_passe_retrouvé}`
+
+    Lien vers le fichier : https://download.interiut.hack2g2.fr/By_Design.zip
+
+    PS : La décompression peut prendre du temps
+
+attribution: Written by Zlippy
+value: 500
+type: standard
+
+extra:
+    initial: 500
+    decay: 10
+    minimum: 100
+
+flags:
+    - interiut{Cb34#!AAZERTYUIOPOIUYTREZAbabaoututu}
+
+tags:
+    - easy
+
+state: visible
+
+version: "0.1"
